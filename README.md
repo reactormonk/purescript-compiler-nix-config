@@ -1,0 +1,1 @@
+# purescript-compiler-nix-config
